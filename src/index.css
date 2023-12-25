@@ -36,6 +36,7 @@ html {
   --footer: #fafafa;
   --on-footer: #a0a0a0;
   --account-button: #f9f9f9;
+  --secondary: #ff6838;
   /* Цвета страницы по умолчанию */
   background-color: var(--surface);
   color: var(--on-surface);
