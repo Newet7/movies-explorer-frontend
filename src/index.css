@@ -36,6 +36,14 @@ html {
   --footer: #fafafa;
   --on-footer: #a0a0a0;
   --on-secondary: #fff;
+  --card: #fdfdfd;
+  --on-card: #000;
+  --on-card-variant: #a0a0a0;
+
+  --movie-button: #f9f9f9;
+  --on-movie-button: #000;
+  --movie-button-done: #ee3465;
+  --on-movie-button-done: #fff;
   --account-button: #f9f9f9;
   --checkbox-disabled: #ebebeb;
   --checkbox-enabled: var(--primary);
