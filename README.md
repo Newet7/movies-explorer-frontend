@@ -17,6 +17,7 @@ https://newet7.github.io/movies-explorer-frontend
 1. [movies-explorer (бэкенд-часть)](https://github.com/newet7/movies-explorer-api)
 2. movies-explorer (фронтенд-часть) ⬅ _этот репозиторий_
 
+
 ## Макет в Figma
 
 [`figma.com/file/6FMWkB94wE7KTkcCgUXtnC`](https://www.figma.com/file/6FMWkB94wE7KTkcCgUXtnC/light-1?node-id=24%3A718&mode=dev)
