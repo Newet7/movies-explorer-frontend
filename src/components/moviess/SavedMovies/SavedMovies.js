@@ -1,12 +1,11 @@
 import Footer from "../../Footer/Footer";
 import Header from "../../Header/Header";
 import Navigation from "../../Navigation/Navigation";
-import SearchForm from "../SearchForm/SearchForm";
 import MoviesCardList from "../MoviesCardList/MoviesCardList";
-import More from "../More/More";
-import "./Movies.css";
+import SearchForm from "../SearchForm/SearchForm";
+import "./SavedMovies.css";
 
-function Movies() {
+function SavedMovies() {
   return (
     <>
       <Header>
@@ -14,12 +13,11 @@ function Movies() {
       </Header>
       <main>
         <SearchForm />
-        <MoviesCardList type="all" />
-        <More />
+        <MoviesCardList />
       </main>
       <Footer />
     </>
   );
 }
 
-export default Movies;
+export default SavedMovies;
