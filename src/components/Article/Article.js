@@ -1,5 +1,5 @@
-import "./Article.css";
 import classNames from "classnames";
+import "./Article.css";
 
 function Article({ title, navId, isThemed = false, children }) {
   return (

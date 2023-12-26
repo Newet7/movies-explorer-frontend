@@ -11,9 +11,10 @@
   /* Отступы */
   padding-top: 40px;
   padding-bottom: 30px;
+  padding-inline: 20px;
 }
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
   .movie-card-list {
     column-gap: 24px;
     row-gap: 35px;
@@ -23,7 +24,9 @@
 
 @media (min-width: 1280px) {
   .movie-card-list {
-    gap: 32px;
+    column-gap: 20px;
+    row-gap: 32px;
     padding-bottom: 10px;
+    grid-template-columns: repeat(4, calc(100% / 4 - 16px));
   }
 }

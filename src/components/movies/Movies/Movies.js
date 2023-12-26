@@ -1,9 +1,9 @@
 import Footer from "../../Footer/Footer";
 import Header from "../../Header/Header";
 import Navigation from "../../Navigation/Navigation";
-import SearchForm from "../SearchForm/SearchForm";
 import MoviesCardList from "../MoviesCardList/MoviesCardList";
 import Preloader from "../../Preloader/Preloader";
+import SearchForm from "../SearchForm/SearchForm";
 import More from "../More/More";
 import "./Movies.css";
 
