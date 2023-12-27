@@ -2,12 +2,13 @@ import "./FilterCheckbox.css";
 
 function Checkbox({ className, title, name, checked, onChange, disabled }) {
   const checkboxClass = `checkbox ${className}`;
+
   return (
     <label className={checkboxClass}>
       <input
         type="checkbox"
         className="checkbox__system-checkbox"
-        defaultChecked={true}
+        // defaultChecked={true}
         name={name}
         checked={checked}
         onChange={onChange}
