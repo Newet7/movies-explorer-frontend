@@ -25,7 +25,7 @@ https://newet7.github.io/movies-explorer-frontend
 ## Демо
 
 На GitHub Pages:
-[`polinica.github.io/movies-explorer-frontend`](https://newet7.github.io/movies-explorer-frontend)
+[`newet7.github.io/movies-explorer-frontend`](https://newet7.github.io/movies-explorer-frontend)
 
 ### Используемые API
 - собственное API для регистрации/авторизации и хранения сохраненных фильмов:
